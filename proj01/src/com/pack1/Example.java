@@ -6,7 +6,10 @@ public class Example {
 	{
 		System.out.println("Example.wish() before updating");
 	}
-	
+	 public void wakeup()
+	 {
+		 System.out.println("Example.wakeup()");
+	 }
 	
 	
 }

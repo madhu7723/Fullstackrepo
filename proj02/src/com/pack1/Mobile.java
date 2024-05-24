@@ -9,4 +9,8 @@ public class Mobile {
 		System.out.println("Mobile.camera()");
 	}
 	
+	public void phdailer()
+	{
+		System.out.println("Mobile.phdailer()");
+	}
 }
